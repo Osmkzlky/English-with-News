@@ -1,6 +1,3 @@
-# Kullanıcıya sunulacak README.md içeriğini .md dosyası olarak kaydediyoruz.
-
-readme_content = """
 # 📚 English with News – Flutter & Firebase
 
 Flutter kullanarak geliştirdiğim bu projede, kullanıcıların güncel haberler üzerinden İngilizce öğrenme süreçlerini kolaylaştırmayı hedefledim.  
